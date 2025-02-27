@@ -1,5 +1,14 @@
 0.0.0.1 xvideos.com
 0.0.0.1 www.xvideos.com
 0.0.0.1 pornhub.com
+0.0.0.1 redtube.com
+0.0.0.1 xvideosbrasil.com
+0.0.0.1 xvideosporno.blog.br
+0.0.0.1 xvideo.vlog.br
+0.0.0.1 www.xvideos3.com
+0.0.0.1 xvideos.tv.br
+0.0.0.1 www.xvideosincesto.com
+0.0.0.1 xvideos5.com.br
+
 
 
